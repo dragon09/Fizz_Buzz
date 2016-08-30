@@ -6,6 +6,8 @@ h1 {
   color: darkslateblue;
   background-color: lightblue;
   font-family: arial;
+  padding-top: .5em;
+  padding-bottom: .5em;
 }
 
 .fizz_buzz {
@@ -15,4 +17,5 @@ h1 {
   border-style: ridge;
   padding-top: 1em;
   padding-bottom: 1em;
+  font-size: 22px;
 }
