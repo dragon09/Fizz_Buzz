@@ -13,4 +13,6 @@ h1 {
   font-family: serif;
   color: #333333;
   border-style: ridge;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
