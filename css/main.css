@@ -1,7 +1,16 @@
-
+body {
+  background-color: cornsilk;
+}
 h1 {
   text-align: center;
   color: darkslateblue;
-  background-color: azure;
+  background-color: lightblue;
+  font-family: arial;
+}
 
+.fizz_buzz {
+  text-align: center;
+  font-family: serif;
+  color: #333333;
+  border-style: ridge;
 }
